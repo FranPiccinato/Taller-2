@@ -25,7 +25,7 @@ Visual Studio Code
 
 Postman
 
-## Resultado en Postman
+## Resultados
 
 ![image](https://github.com/user-attachments/assets/68b9cc31-dbf5-4954-84d9-f928f34abed1)
 ![image](https://github.com/user-attachments/assets/ff2a3a46-9a19-4ccb-9e03-34d73707281f)

@@ -18,8 +18,11 @@ José Zúñiga Jiménez
 ## Resumen de la infraestructura
 
 MySQL
+
 Flask
+
 Visual Studio Code
+
 Postman
 
 ## Resultado en Postman

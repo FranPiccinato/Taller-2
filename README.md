@@ -4,9 +4,13 @@
 ## Grupo 3
 
 Gael Hidalgo Fernández
+
 Sebastien Mendez Barquero
+
 Francesca Piccinato Pacheco
+
 Fabricio Solis Calderon
+
 
 Profesor: José Zúñiga Jiménez
 
